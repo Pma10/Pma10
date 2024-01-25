@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/pma)](https://solved.ac/profile/pma)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pma10)](https://github.com/Pma10)
