@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###👋 Hi
-
+### 👋 Hi
 <div align="center">
-
   
 [![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/pma)](https://solved.ac/profile/pma)
 
