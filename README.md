@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  [![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/pma)](https://solved.ac/profile/pma)
+  [![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/pma)](https://solved.ac/profile/pma)]
   
   [![Pma10's github stats](https://github-readme-stats.vercel.app/api?username=Pma10&show_icons=true&theme=dracula)](https://github.com/pma10)
   
