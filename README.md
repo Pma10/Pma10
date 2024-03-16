@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
- # 안녕하세요! 프마입니다
-</div>
+# 프마입니다
