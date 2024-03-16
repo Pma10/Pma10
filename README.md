@@ -17,15 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  👋 Hi
-</div>
-
-<div align="center">
-  
-  [![Pma10's github stats](https://github-readme-stats.vercel.app/api?username=Pma10&show_icons=true&theme=dracula)](https://github.com/pma10)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pma10)](https://github.com/Pma10)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Pma10)](https://github.com/Pma10/github-profile-trophy)
-  
+  👋 안녕하세요! 프마입니
 </div>
