@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 -->
 
 # 👋 프마.
+- 저는 Python과 Javascript를 메인으로 다루고 있어요!
+- 아직 부족한면이 많아요.
+
