@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 저는 Python과 Javascript를 메인으로 다루고 있어요!
 - 아직 부족한면이 많아요.
 
+<div align=left>
+- <a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a>
+</div>
