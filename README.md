@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 - 아직 부족한면이 많아요.
 
 <div align=left>
+#Bot
 - <a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a>
 </div>
