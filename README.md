@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 프마.
+![Snake](https://github.com/pma10/pma10/raw/output/github-contribution-grid-snake-dark.svg)
 - 저는 Python과 Javascript를 메인으로 다루고 있어요!
 - 아직 부족한면이 많아요.
 
