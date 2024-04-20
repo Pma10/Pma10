@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 - 아직 부족한면이 많아요.
 
 - <a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a>
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Pma10&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+- <a href="https://profile.codersrank.io/user/pma10">CodersRank</a>
