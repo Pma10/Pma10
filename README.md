@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
 # 👋 프마.
 - 저는 Python과 Javascript를 메인으로 다루고 있어요!
 - 아직 부족한면이 많아요.
 
 - <a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a>
+<codersrank-summary username="Pma10"></codersrank-summary>
