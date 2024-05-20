@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - <a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a>
 - <a href="https://profile.codersrank.io/user/pma10">CodersRank</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pma10&layout=compact)
 <div align=center>
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pma10&layout=compact)
 </div>
