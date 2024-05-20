@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 - <a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a>
 - <a href="https://profile.codersrank.io/user/pma10">CodersRank</a>
 
-<div align=center>
-</div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pma10)
+<div align = "center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pma10&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" /> </a> </div>
