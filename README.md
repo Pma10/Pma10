@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - <a href="https://profile.codersrank.io/user/pma10">CodersRank</a>
 <hr>
 <div align=center>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pma10&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
