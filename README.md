@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # 👋 프마.
 - 저는 Python과 Javascript를 메인으로 다루고 있어요!
 - 아직 부족한면이 많아요.
+- 🔒 : 대부분의 Repo는 비공개에요!
 
 - <a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a>
 - <a href="https://profile.codersrank.io/user/pma10">CodersRank</a>
