@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # 👋 프마.
 <div align=center>
-  # Skills
+  <h1>Skills</h1>
   <details>
     <summary>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
