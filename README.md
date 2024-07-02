@@ -48,10 +48,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </details>
-
-<h1>HI</h1>
 </div>
 <div align=center>
+  <h1>HI</h1>
     <ul>
         <li>저는 Python과 Javascript를 메인으로 다루고 있어요!</li>
         <li>아직 부족한면이 많아요.</li>
