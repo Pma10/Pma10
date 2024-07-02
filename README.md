@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 # 👋 프마.
 <div align=center>
+  # Skills
   <details>
     <summary>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
   </details>
 
 <hr>
-<br>
+
 </div>
 <div align=center>
     <ul>
