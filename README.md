@@ -28,7 +28,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord" />
   </details>
   <details>
-  <details>
     <summary>
       <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=web" />  
     </summary>
