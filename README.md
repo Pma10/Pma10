@@ -43,12 +43,12 @@ Here are some ideas to get you started:
   </details>
   <hr>
 </div>
-<ul>
-    <li>저는 Python과 Javascript를 메인으로 다루고 있어요!</li>
-    <li>아직 부족한면이 많아요.</li>
-    <li>🔒 : 대부분의 Repo는 비공개에요!</li>
-    <li><a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a></li>
-    <li><a href="https://profile.codersrank.io/user/pma10">CodersRank</a></li>
-</ul>
+    <ul>
+        <li>저는 Python과 Javascript를 메인으로 다루고 있어요!</li>
+        <li>아직 부족한면이 많아요.</li>
+        <li>🔒 : 대부분의 Repo는 비공개에요!</li>
+        <li><a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a></li>
+        <li><a href="https://profile.codersrank.io/user/pma10">CodersRank</a></li>
+    </ul>
 <div align = "center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pma10&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" /> </a> </div>
