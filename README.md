@@ -27,11 +27,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=green" />
     <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord" />
   </details>
-  <details>
-    <summary>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </summary>
-    <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
   </details>
   <details>
     <summary>
@@ -39,6 +34,11 @@ Here are some ideas to get you started:
     </summary>
     <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
   </details>
+  <details>
+    <summary>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </summary>
+    <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
   <details>
     <summary>
       <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=web" />  
