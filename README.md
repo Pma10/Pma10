@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 프마.
+<div align=center>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</div>
 - 저는 Python과 Javascript를 메인으로 다루고 있어요!
 - 아직 부족한면이 많아요.
 - 🔒 : 대부분의 Repo는 비공개에요!
