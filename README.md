@@ -54,6 +54,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     </summary>
     <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  </details>
   <details>
     <summary>
       <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=web" />  
