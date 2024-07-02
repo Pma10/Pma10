@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align=center>
   <details>
     <summary>
-      Langs
+      🌟Langs
     </summary>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
