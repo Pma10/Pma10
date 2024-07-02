@@ -55,8 +55,12 @@ Here are some ideas to get you started:
         <li>저는 Python과 Javascript를 메인으로 다루고 있어요!</li>
         <li>아직 부족한면이 많아요.</li>
         <li>🔒 : 대부분의 Repo는 비공개에요!</li>
-        <li><a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a></li>
-        <li><a href="https://profile.codersrank.io/user/pma10">CodersRank</a></li>
+        <a href="https://koreanbots.dev/bots/1206535811181318225">
+            <img src="https://img.shields.io/badge/Chez-34D058?style=for-the-badge&logo=Chez&logoColor=white" />
+        </a>
+        <a href="https://profile.codersrank.io/user/pma10">
+            <img src="https://img.shields.io/badge/CodersRank-4285F4?style=for-the-badge&logo=CodersRank&logoColor=white" />
+        </a>
     </ul>
 </div>
 <div align = "center"> 
