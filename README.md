@@ -25,6 +25,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=green" />
+    <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord" />
+
 
   </details>
   <details>
