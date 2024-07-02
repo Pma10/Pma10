@@ -63,6 +63,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </details>
 </div>
-
-<div align = "center"> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) </div>
