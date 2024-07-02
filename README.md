@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 </div>
 
 <div align = "center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pma10&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&hide_border=False" /> </a> </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) </div>
