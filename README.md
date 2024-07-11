@@ -30,6 +30,7 @@ Here are some ideas to get you started:
         </a>
     </ul>
 </div>
+<!--
 <div align=center>
   <h1>Skills</h1>
   <details>
@@ -66,3 +67,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </details>
 </div>
+-->
