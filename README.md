@@ -15,17 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 프마.
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-- 아직 부족한면이 많아요.
-- 🔒 : 대부분의 Repo는 비공개에요!
-- <a href="https://koreanbots.dev/bots/1206535811181318225">Chez</a>
-- <a href="https://profile.codersrank.io/user/pma10">CodersRank</a>
+- 아직 부족한 면이 많아요.
+- 🔒 대부분의 Repo는 비공개예요!
+- [Chez](https://koreanbots.dev/bots/1206535811181318225)
+- [CodersRank](https://profile.codersrank.io/user/pma10)
 
-# Team
-- Pconn[pconn.kr] ( 2023 ~ )
-- TeamCocoa[teamcocoa.kr] (2024 ~ )
-- MCSV[mc-sv.kr] (2024 ~ )
-- ~~HuntMC[huntmc.xyz] (2024 ~ 2024)~~
-  
+---
 
-<div align = "center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pma10&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" /> </a> </div>
+## 🛠️ LANGS
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+
+---
+
+## 🏢 TEAMS
+- **Pconn** [Pconn.kr](https://pconn.kr) (2023 ~ )
+- **TeamCocoa** [teamcocoa.kr](https://teamcocoa.kr) (2024 ~ )
+- **MCSV** [mc-sv.kr](https://mc-sv.kr) (2024 ~ )
+
+---
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pma10&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=false" />
+  </a>
+</div>
