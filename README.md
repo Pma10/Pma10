@@ -1,36 +1,37 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pma10&label=Profile%20views&color=0e75b6&style=flat" alt="Pma10" /> </p>
 
-<!--
-**Pma10/Pma10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋, Pma
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 프마.
-- 아직 부족한 면이 많아요.
-- 🔒 대부분의 Repo는 비공개예요!
-- [Chez](https://koreanbots.dev/bots/1206535811181318225)
-- [CodersRank](https://profile.codersrank.io/user/pma10)
+## 🛠 기술 스택
 
----
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)  
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-## 🛠️ LANGUAGES  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)  
+[**CodersRank Profile**](https://profile.codersrank.io/user/pma10)  
 
-## 🧩 FRAMEWORKS  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+## 📂 주요 프로젝트
+
+- [**GenieAPI**](https://github.com/Pma10/GenieAPI)  
+  - Genie Music API 
+  - [PyPI](https://pypi.org/project/GenieAPI/)
+
+- [**SpotifyCharts**](https://github.com/Pma10/SpotifyCharts)  
+  - 멜론차트, TJ노래방 인기차트 스포티파이 자동 업로드 코드
+  - 언어: Python  
+
+- [**Cloudflarepy**](https://github.com/Pma10/Cloudflarepy)  
+  - 파이썬 클라우드플레어 API Wrapper
+  - [PyPI](https://pypi.org/project/Cloudflarepy/)
+
+- [**Chez**](https://koreanbots.dev/bots/1206535811181318225)  
+  - 치치직 디스코드 알림봇
+
+## 📫 연락처
+
+- Email: [pma0719@proton.me](mailto:pma0719@proton.me)
+- Discord: pma10
 
