@@ -9,7 +9,7 @@
 
 [**CodersRank Profile**](https://profile.codersrank.io/user/pma10)  
 
-## 📂 주요 프로젝트
+## 📂 프로젝트
 
 - [**GenieAPI**](https://github.com/Pma10/GenieAPI)  
   - Genie Music API 
@@ -17,8 +17,7 @@
 
 - [**SpotifyCharts**](https://github.com/Pma10/SpotifyCharts)  
   - 멜론차트, TJ노래방 인기차트 스포티파이 자동 업로드 코드
-  - 언어: Python  
-
+  - 
 - [**Cloudflarepy**](https://github.com/Pma10/Cloudflarepy)  
   - 파이썬 클라우드플레어 API Wrapper
   - [PyPI](https://pypi.org/project/Cloudflarepy/)
