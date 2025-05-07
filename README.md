@@ -24,6 +24,8 @@
 
 - [**Chez**](https://koreanbots.dev/bots/1206535811181318225)  
   - 치치직 디스코드 알림봇
+- [**PvPConnect**](https://discord.pvpconnect.xyz)
+  - 마인크래프트 pvp 연습 서버
 
 ## 📫 연락처
 
