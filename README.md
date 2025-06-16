@@ -11,17 +11,6 @@
 
 ## 📂 프로젝트
 
-- [**GenieAPI**](https://github.com/Pma10/GenieAPI)  [Python]
-  - Genie Music API 
-  - [PyPI](https://pypi.org/project/GenieAPI/)
-
-- [**SpotifyCharts**](https://github.com/Pma10/SpotifyCharts)  [Python]
-  - 멜론차트, TJ노래방 인기차트 스포티파이 자동 업로드 코드
-  - 
-- [**Cloudflarepy**](https://github.com/Pma10/Cloudflarepy)  [Python]
-  - 파이썬 클라우드플레어 API Wrapper
-  - [PyPI](https://pypi.org/project/Cloudflarepy/)
-
 - [**Chez**](https://koreanbots.dev/bots/1206535811181318225)  [Python]
   - 치치직 디스코드 알림봇
 - [**PvPConnect**](https://discord.pvpconnect.xyz) [Kotlin]
