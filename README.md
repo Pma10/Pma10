@@ -1,23 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pma10&label=Profile%20views&color=0e75b6&style=flat" alt="Pma10" /> </p>
 
 # 👋, Pma
-
-
-## 🛠 기술 스택
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ko/docs/Web/JavaScript)  [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-
-[**CodersRank Profile**](https://profile.codersrank.io/user/pma10)  
-
-## 📂 프로젝트
-
-- [**Chez**](https://koreanbots.dev/bots/1206535811181318225)  [Python]
-  - 치치직 디스코드 알림봇
-- [**PvPConnect**](https://discord.pvpconnect.xyz) [Kotlin]
-  - 마인크래프트 pvp 연습 서버
-
-## 📫 연락처
-
-- Email: [pma0719@proton.me](mailto:pma0719@proton.me)
-- Discord: pma10
-
+[![Discord](https://img.shields.io/badge/@pma10-5865F2?logo=discord&logoColor=white) [![Email](https://img.shields.io/badge/Email-pma0719@proton.me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pmavmak10@gmail.com) [![CodersRank](https://img.shields.io/badge/@pma10-5865F2?logo=codersrank&logoColor=white)(https://profile.codersrank.io/user/pma10) 
+> 안녕하세요! 중학생 개발자 프마라고 합니다.
+> 저는 주로 파이썬을 활용한 프로그램 개발이나 코틀린을 활용한 마인크래프트 플러그인 개발을 주로 합니다.
+> 제가 사용 가능한 언어로는 **파이선**, **자바스크립트**, **타입스크립트**, **자바**, **코틀린**이 있습니다.
+> 풀리퀘스트와 연락은 항상 환영합니다.
