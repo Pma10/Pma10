@@ -11,3 +11,5 @@
 | 제가 사용 가능한 언어로는 **파이선**, **자바스크립트**, **타입스크립트**, **자바**, **코틀린**이 있습니다.
 
 | 풀리퀘스트와 연락은 항상 환영합니다.
+
+[![Pma10(Pma10)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=pma10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
