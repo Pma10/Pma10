@@ -10,4 +10,6 @@
 
 | 제가 사용 가능한 언어로는 **파이썬**, **자바스크립트**, **코틀린**이 있습니다.
 
+| 저는 현재 [PVPCONNECT](https://minelist.kr/servers/pvpconnect.xyz)라는 마인크래프트 서버와 [Chez](https://chez.pma.kr)라는 디스코드 봇을 운영 중에 있습니다.
+
 | 풀리퀘스트와 연락은 항상 환영합니다.
